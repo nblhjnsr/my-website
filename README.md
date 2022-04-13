@@ -1,3 +1,3 @@
 # my-website
 
-A personal project portfolio I made from Angela Yu's bootcamp.
+I just finished my intermediate CSS session and this is my personal project portfolio from Angela Yu's bootcamp. 
